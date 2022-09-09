@@ -12,4 +12,4 @@ summary: Several licensing options are available for Cloud Volumes ONTAP. Each o
 :linkattrs:
 :imagesdir: ./media/
 
-include::_include/licensing.adoc[]
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-volumes-ontap-relnotes/main/_include/licensing.adoc[]
