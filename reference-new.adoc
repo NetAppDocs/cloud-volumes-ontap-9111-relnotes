@@ -66,13 +66,13 @@ https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/task-deploy-aws-
 
 Cloud Volumes ONTAP is now supported in the AWS Jakarta region (ap-southeast-3).
 
-https://cloud.netapp.com/cloud-volumes-global-regions[View the full list of supported regions for Cloud Volumes ONTAP^]
+https://bluexp.netapp.com/cloud-volumes-global-regions[View the full list of supported regions for Cloud Volumes ONTAP^]
 
 === New Azure region support
 
 Cloud Volumes ONTAP is now supported in the Azure Brazil Southeast region.
 
-https://cloud.netapp.com/cloud-volumes-global-regions[View the full list of supported regions for Cloud Volumes ONTAP^]
+https://bluexp.netapp.com/cloud-volumes-global-regions[View the full list of supported regions for Cloud Volumes ONTAP^]
 
 === Support for 24 storage VMs in Google Cloud
 
