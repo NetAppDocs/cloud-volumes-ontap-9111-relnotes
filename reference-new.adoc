@@ -86,7 +86,7 @@ https://bluexp.netapp.com/cloud-volumes-global-regions[View the full list of sup
 
 Cloud Volumes ONTAP HA pairs are now supported in the Milan (europe-west8) region.
 
-https://cloud.netapp.com/cloud-volumes-global-regions[View the full list of supported regions for Cloud Volumes ONTAP^]
+https://bluexp.netapp.com/cloud-volumes-global-regions[View the full list of supported regions for Cloud Volumes ONTAP^]
 
 === Modifying LIF services for new storage VMs
 
