@@ -5,6 +5,7 @@ settings:
     pdf_enabled: true
   prod:
     pdf_enabled: true
+    harmony_enabled: true
   versions:
     - version-number: "9.11.1"
       url: /cloud-volumes-ontap-9111-relnotes
